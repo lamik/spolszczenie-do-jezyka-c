@@ -32,5 +32,5 @@
 #define lotny volatile
 #define dopoki while
 #define glowna main
-#define drukujf printf
-#define odczytajf scanf
+#define drukujs printf
+#define odczytajs scanf
